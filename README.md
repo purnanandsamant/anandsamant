@@ -1,2 +1,2 @@
-# anandsamant.github.io
+# anandsamant.dataportfolio
 Data Science Portfolio Website
