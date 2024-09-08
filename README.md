@@ -1,2 +1,2 @@
-# anandsamant.dataportfolio
+# anandsamant
 Data Science Portfolio Website
