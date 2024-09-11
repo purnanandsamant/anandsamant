@@ -1,5 +1,8 @@
 # 💫 About Me:
-Senior leader driving data-driven solutions<br>Lean and Six Sigma Black Belt certified<br><br>
+- Senior leader driving data-driven solutions<br>
+- Lean and Six Sigma Black Belt certified<br>
+- 16+ years of industry experience<br>
+<br>
 
 
 ## 🌐 Socials:
