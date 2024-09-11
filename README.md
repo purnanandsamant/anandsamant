@@ -4,7 +4,6 @@
 - 16+ years of industry experience<br>
 <br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandsamant) 
 [![Huggingface](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm-dark.svg)](https://huggingface.co/Purnanand) 
